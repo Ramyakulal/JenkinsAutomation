@@ -27,7 +27,7 @@ pipeline {
                  username: 'ravish',
                   password: 'YouPasswordHere',
                   bypassProxy: true,
-                   timeout: 300
+                   timeout: 400
                         )
             }
         }
